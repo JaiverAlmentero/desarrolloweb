@@ -1,0 +1,187 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,301,400,400i,500,500i');
+
+* {
+    margin: 0px;
+    padding: 0px;
+  
+}
+h1 {
+    font: bold 14px normal, sans-serif;
+   
+    text-align: left;
+
+}
+h2 {
+    font: bold 13px normal, sans-serif;
+    
+
+}
+h3 {
+    font: bold 9px normal, sans-serif;
+    text-align: right;
+    color: #33c3a2;
+
+}
+header, section, footer, aside, nav, article, figure, figcaption, hgroup{
+   display: block;    
+}
+body{
+    text-align: center;
+}
+#contenedor {
+    width: 960px;
+    margin: 15px auto;
+    text-align: left;
+}
+#cabecera{
+    margin: 0px 0PX 20PX 0PX ; 
+    background:#d9f9f9;
+    border:1px solid darkgreen;
+    padding: 10px;
+    text-align: center;
+    border-radius: 30px;
+}
+#menu{
+    background:#33c3a2;
+    padding: 10px 50px;
+    border-radius: 30px;
+  
+}
+#menu li{
+    width: 160px;
+    text-align: center;
+    display: inline-block;
+    list-style: none;
+    padding: 5px 5px 5px 5px;
+    font: bold 14px verdana, sans-serif;
+   
+        
+}
+#menu ul li  :hover{
+    width: 25px;
+    background-color:#29a8a8;
+    padding: 15px 20px 15px 20px;
+    border-radius: 30px 0px 30px 0px;
+    
+}
+#menu ul li a{
+   text-decoration: none;
+  color: #fff;
+}
+
+#principal{
+    padding: 10px 0px 0px 10px;
+    float: left;
+    width: 660px;
+    margin: 20px 20px 20px 20px;
+    background-color:#f4fff5;
+}
+#columna{
+   
+    margin: 40px 0px 0px 0px ;
+    padding: 10px 34px 10px 34px;
+    border:1px solid darkgreen;
+    float: left;
+    width: 220px 0px;
+    background:#d9f9f9;
+    background-color: #d9f9f9;
+    border-radius: 5px; 
+    
+  
+}
+#columna blockquote h1 {
+    padding: 0px;
+    width: 80px; 
+    display: block;   
+    border-radius: 0%; 
+    font: bold 10px verdana, sans-serif;
+   
+  
+}
+#pie{
+    clear: both;
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid teal;
+    
+}
+article{
+    
+    background-color: #d9f9f9;
+    border: 1px solid steelblue;
+    padding: 20px;
+    margin-bottom: 15px;
+
+ 
+}
+#videojuegos{ 
+    margin: 0px 0px 0px 0px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px; 
+}
+article footer{
+    text-align: right;
+}
+
+hgroup article{
+    display: inline-block;
+    width: 280px ;
+    display:  inline-block;
+}
+ img{
+    
+    margin-top: 0px;
+   margin-bottom: 0px;
+
+}
+ #columna blockquote p{
+ font: bold 10px normal, sans-serif;
+color: #ae8549;
+
+ }
+ #menuAC ul {
+    display: inline-block;
+    width: 80px ;
+    display:  inline-block;
+    background:#33c3a2;
+    padding: 2px 4px;
+   
+    
+ }
+
+  a {
+    text-decoration: none;
+
+ }
+  #usuario{ 
+      
+    margin: 0px 0px 0px 130px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px; 
+
+}
+li{
+    list-style:none;
+}
+#imgarticulos{
+    margin: 5px ;
+
+    width: 100px;
+    height: 100px;
+
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
